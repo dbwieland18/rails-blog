@@ -1,6 +1,6 @@
 == README
 
-(my blog live on heroku)[http://thawing-shelf-9701.herokuapp.com/posts]
+[my blog live on heroku](http://thawing-shelf-9701.herokuapp.com/posts)
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
